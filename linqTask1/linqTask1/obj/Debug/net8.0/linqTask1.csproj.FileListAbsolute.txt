@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\bin\Debug\net8.0\linqTask1.exe
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\bin\Debug\net8.0\linqTask1.deps.json
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\bin\Debug\net8.0\linqTask1.runtimeconfig.json
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\bin\Debug\net8.0\linqTask1.dll
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\bin\Debug\net8.0\linqTask1.pdb
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.AssemblyInfo.cs
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.dll
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\refint\linqTask1.dll
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.pdb
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\linqTask1.genruntimeconfig.cache
+C:\Users\user\OneDrive\سطح المكتب\iti portsaid\linq\linq-day1\linqTask1\linqTask1\obj\Debug\net8.0\ref\linqTask1.dll
